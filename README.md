@@ -20,6 +20,8 @@ JustMySocks 是知名 VPS 服务商 BandwagonHost（搬瓦工）官方推出的�
 1.  **访问官网**
     打开 JustMySocks 官网地址：[👉点此直达官网](https://c.shangshu.xyz/jms)
     
+    如果上面的网址打开困难，[👉可使用镜像网站](https://c.shangshu.xyz/jms6)
+    
     *(如果界面是英文，可以点击右上角的 "English" 切换为中文)*
 ![01](https://github.com/user-attachments/assets/71ee45d8-95f3-4e0e-a814-bbc324b676df)
 
